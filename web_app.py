@@ -16,7 +16,8 @@ if uploaded_file:
         st.info("Processing... please wait")
         
         # Run your main detection script
-        os.system("python main.py")
+        st.warning("Detection engine runs locally on the host machine.")
+
 
         if os.path.exists("output.avi"):
             st.success("Processing complete!")
