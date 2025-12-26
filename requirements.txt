@@ -1,7 +1,2 @@
 streamlit
-numpy
-opencv-python-headless
-pillow
-matplotlib
-imutils
-scikit-learn
+requests
