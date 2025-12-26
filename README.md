@@ -49,3 +49,13 @@ This repository implements a few backboned version of Mask R-CNN to detect broil
 ## License
 ClumsyChickens is released under the MIT license. See the [LICENSE](/LICENSE) file for details.
 
+## 🔽 Download Pretrained Model
+
+This project requires a pretrained Mask R-CNN model file.
+
+Download it from:
+https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+
+After downloading, place the file in:
+
+model_data/mask_rcnn_coco.h5
