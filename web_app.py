@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 
 API_URL = "https://hen-detection-tracking.onrender.com/predict"
-   # 👈 replace this
 
 st.set_page_config("Hen Detection System")
 
